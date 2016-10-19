@@ -62,6 +62,7 @@ setup(
             'console_scripts': [
                 'son-workspace=son.workspace.workspace:main',
                 'son-package=son.package.package:main',
+                'son-access=son.access.access:main',
                 'son-publish=son.catalogue.publish:main',
                 'son-push=son.push.push:main',
                 'son-monitor=son.monitor.monitor:main',
