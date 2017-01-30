@@ -89,7 +89,7 @@ class Workspace:
             Workspace.DEFAULT_SCHEMAS_DIR
 
         self.schemas[self.CONFIG_STR_SCHEMAS_REMOTE_MASTER] = \
-            "https://raw.githubusercontent.com/sonata-nfv/son-schema/master/"
+            "https://raw.githubusercontent.com/sonata-nfv/son-schema/v1.0/"
 
         # Sub-directories of catalogues
         self.dirs[self.CONFIG_STR_CATALOGUE_NS_DIR] = \
